@@ -1,2 +1,2 @@
 # mlnxLibs
-Mellanox device specific libraries
+This repository contains Mellanox device specific libraries per whitebox platform
